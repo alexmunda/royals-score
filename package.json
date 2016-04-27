@@ -1,0 +1,16 @@
+{
+  "name": "royals-score",
+  "version": "1.0.0",
+  "description": "Get the score of yesterday's royals game.",
+  "main": "index.js",
+  "dependencies": {
+    "mlbboxscores": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Munda",
+  "license": "ISC"
+}
